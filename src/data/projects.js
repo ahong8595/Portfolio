@@ -5,6 +5,7 @@ import umdprof from "./images/umdprof.png";
 import proj320 from "./images/COVID_Chart.png";
 import refresh from "./images/refresh.png";
 import sus from "./images/sus.png"
+import site from "./images/site.png"
 
 export const data = [{
     title: "NIST COVID-19 Search Engine",
@@ -42,4 +43,9 @@ export const data = [{
     desc: "Calculates the average GPA for a course and determines the best professor for a course based on their reviews",
     tech: "Python",
     link: "",
+}, {
+    title: "This website",
+    src: site,
+    desc: "Personal portfolio of my work",
+    tech: "React, React-Bootstrap",
 }]
