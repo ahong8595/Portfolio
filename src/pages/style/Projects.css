@@ -8,7 +8,8 @@
 }
 
 .projCardImg {
-    height: 275px;
+    height: 260px;
+    object-fit: fill;
 }
 
 .box {
