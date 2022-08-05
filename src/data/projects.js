@@ -22,7 +22,7 @@ export const data = [{
 }, {
     title: "Sustainabli",
     src: sus,
-    desc: "Website as part on a UMD startup to help reduce waste in research labs. The program has successfully reduced over 6 tons of CO2 waste",
+    desc: "Website as part of a UMD startup to help reduce waste in research labs. The program has successfully reduced over 6 tons of CO2 waste",
     tech: "React, JavaScript, Node, Express, HTML/CSS",
     link: "https://sustainabli.herokuapp.com/"
 }, {
