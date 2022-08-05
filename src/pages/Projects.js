@@ -8,7 +8,6 @@ import { data } from "../data/projects";
 import "./style/Projects.css";
 
 function Projects() {
-    console.log(data)
     return <div>
         <MainNavBar></MainNavBar>
         <br />
