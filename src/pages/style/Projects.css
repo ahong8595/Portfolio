@@ -1,0 +1,21 @@
+.projCard {
+    height: 500px;
+}
+
+.title {
+    text-align: center;
+}
+
+.projCardImg {
+    height: 300px;
+}
+
+.box {
+    margin: 0px 150px;
+}
+
+.tech {
+    position: 0px;
+    bottom: 0px;
+    left: 0px;
+}

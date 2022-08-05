@@ -1,0 +1,1 @@
+export const data = "Hi there! My name is Andrew Hong, a rising senior double majoring in computer science and biology. Through my previous experiences, I have developed a strong passion for web development, but in my free time, I enjoy travelling, trying new foods, and basketball. Feel free to reach out to me for any questions."
