@@ -47,5 +47,5 @@ export const data = [{
     title: "This website",
     src: site,
     desc: "Personal portfolio of my work",
-    tech: "React, React-Bootstrap",
+    tech: "React, Node, React-Bootstrap",
 }]
