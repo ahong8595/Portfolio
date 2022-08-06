@@ -14,7 +14,7 @@ export const data = [{
     tech: "HTML/CSS, JavaScript, C#, SQL",
     link: "https://randr19.nist.gov/",
 }, {
-    title: "Refresh Tasks",
+    title: "Refresh",
     src: refresh,
     desc: "Productivity website that allows users to create tasks lists and view the weather and news using API calls.",
     tech: "HTML/CSS, JavaScript, Node, Express, MongoDB",
