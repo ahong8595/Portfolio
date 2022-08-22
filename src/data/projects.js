@@ -18,7 +18,7 @@ export const data = [{
     src: refresh,
     desc: "Productivity website that allows users to create tasks lists and view the weather and news using API calls.",
     tech: "HTML/CSS, JavaScript, Node, Express, MongoDB",
-    link: "https://refresh-tasks.herokuapp.com/"
+    link: "https://www.youtube.com/watch?v=6gatc2WyM-8"
 }, {
     title: "Sustainabli",
     src: sus,
