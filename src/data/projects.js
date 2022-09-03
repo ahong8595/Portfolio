@@ -34,7 +34,7 @@ export const data = [{
 }, {
     title: "COVID-19 on Academic Performance",
     src: proj320,
-    desc: "Data science project Investigating the effectsof the COVID-19 pandemic on academic performance in Maryland.",
+    desc: "Data science project Investigating the effects of the COVID-19 pandemic on academic performance in Maryland.",
     tech: "Python, Pandas, Matplotlib, Scikit-learn",
     link: "https://ahong8595.github.io/COVID-19.html",
 }, {
