@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../data/Hong_Andrew_Resume_2022.pdf';
+import resume from '../data/Hong_Andrew_Resume_2025.pdf';
 
 function Resume() {
     return <div style={{ height: "100vh" }}>
